@@ -1,0 +1,23 @@
+table, td {
+border: 1px black solid ;
+border-collapse: collapse  ;
+
+}
+
+
+body{
+    background-color: aqua;
+}
+
+.zold{
+    background-color:green;
+}
+
+#sakk{
+    background-color: black;
+   /*a színe*/
+    color: white
+}
+
+
+

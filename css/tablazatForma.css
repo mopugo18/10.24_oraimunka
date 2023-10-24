@@ -1,0 +1,36 @@
+table{
+    border:1px solid black ;
+    border-collapse: collapse;
+}
+
+
+/*szöveg elemek középre rendezése
+td{
+    text-align: center;
+}*/
+
+body{
+    /*háttérszin beállítása*/
+    background-color: lightgray;
+
+    #zold{
+        background-color: green;
+    }
+
+    #kek{
+        background-color: blue;
+    }
+
+    #sarga{
+        background-color: yellow;
+    }
+
+    #piros{
+        background-color: red;
+    }
+    }
+
+
+
+/*Class "." al jelölünk nem pedig "#" */
+
